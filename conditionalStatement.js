@@ -28,17 +28,25 @@
 
 // If u wanna enter to the ghost house if have to 15 over and u have to have ur guardian(must be over 20)
 
-let age = 15;
-let withAdult = true;
-if (age >= 15) {
-    console.log("u may enter the fair");
-    if (withAdult) {
-        console.log("U can enter the ghost house");
-    } 
-else {
-        console.log("U can't enter the ghost house");
-    }
-}
-else {
-    console.log("u can't enter the fair");
-}
+// let age = 15;
+// let withAdult = true;
+// if (age >= 15) {
+//     console.log("u may enter the fair");
+//     if (withAdult) {
+//         console.log("U can enter the ghost house");
+//     } 
+// else {
+//         console.log("U can't enter the ghost house");
+//     }
+// }
+// else {
+//     console.log("u can't enter the fair");
+// }
+
+// if (deal = "ok") {
+//     console.log("protidin hobe rag");
+// }
+// else {
+//     (deal = "break");
+// console.log("farhan: amar protoom bow(my bycycle) 3 diner jonni Samiul er")
+// }

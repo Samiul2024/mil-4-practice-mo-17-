@@ -18,7 +18,7 @@ var passed = true;
 5.can't be a keyworld
 6.prefer camelcase
 */
-var lastExamResult = 89;
+// var lastExamResult = 89;
 /**
 Operation
 1. +, -, *, /, %
@@ -26,7 +26,3 @@ Operation
 3.isNaN = ?
 4. null
 5. Number
-
-
-
-

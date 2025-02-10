@@ -1,11 +1,11 @@
-comparison
-1.bigger : >
-2.less  : <
-3. equal: ==
-4.greater than or equal to : >=
-5.Less than or equal : <=
-6. not equal : !=
+// comparison
+// 1.bigger : >
+// 2.less  : <
+// 3. equal: ==
+// 4.greater than or equal to : >=
+// 5.Less than or equal : <=
+// 6. not equal : !=
 
-* -----------
-7. and : &&
-8.or ; ||
+// * -----------
+// 7. and : &&
+// 8.or ; ||
